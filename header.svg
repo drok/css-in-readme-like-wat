@@ -101,6 +101,11 @@
 					backface-visibility: hidden;
 				}
 
+				.flip-card-front {
+					background-color: #ccc;
+					color: black;
+				}
+
 				.flip-card-back {
 					transform: rotateY(180deg);
 				}
