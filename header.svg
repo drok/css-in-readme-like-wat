@@ -87,7 +87,7 @@
 				}
                 @media (prefers-color-scheme: dark) {
 					.flip-card {
-                        color: white;
+                        color: lightgray;
 					}
                     .flip-card-front svg {
                         rect{stroke:lightgray}
