@@ -101,7 +101,6 @@
 				}
 
 				.flip-card-front {
-					background-color: #888;
 					color: black;
 				}
 
