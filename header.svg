@@ -144,6 +144,11 @@
 							<p>Click to see the source</p>
 							</div>
 						</div>
+						<div class="flip-card-back">
+							<h1>John Doe</h1> 
+							<p>Architect &amp; Engineer</p> 
+							<p>We love that guy</p>
+						</div>						
 					</div>
 				</div>
 			</div>
