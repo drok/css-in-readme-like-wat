@@ -86,7 +86,6 @@
 					width: 300px;
 					height: 300px;
 					perspective: 1000px;
-					animation: rotate ease-in-out 1s infinite alternate;
 				}
 
 				.flip-card-inner {
@@ -97,6 +96,7 @@
 					transition: transform 2.9s;
 					transform-style: preserve-3d;
 					box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+					animation: rotate ease-in-out 3s infinite alternate;
 				}
 
 				.flip-card:hover .flip-card-inner {
