@@ -63,8 +63,9 @@
 				}
 
 				p {
-					font-size: 40px;
-					text-shadow: 0 1px 0 #efefef;
+					font-size: 48px;
+				    line-height: 70px;
+					text-shadow: 0 2px 0 #efefef;
 				}
 
 				.flip-card {
@@ -128,9 +129,7 @@
 							</picture>
 						</div>
 						<div class="flip-card-back">
-							<p>distributed</p>
-							<p>digital</p>
-							<p>library</p>
+							<p>distributed<br/>digital<br/>library</p>
 						</div>
 					</div>
 				</div>
