@@ -107,7 +107,6 @@
 				.flip-card-back {
 					background-color: #ccc;
 					color: black;
-					transform: rotateY(180deg);
 				}
 
 			</style>
