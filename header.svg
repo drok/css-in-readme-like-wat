@@ -84,6 +84,17 @@
 			<div class="container">
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
 				<p>Click to see the source</p>
+				<svg width="300" height="300" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+					<text x="20" y="170" font-size="100" font-family="Arial" fill="black">d</text>
+					
+					<rect x="80" y="130" width="30" height="40" fill="lightblue" stroke="black"/>
+					<circle cx="95" cy="100" r="15" fill="lightblue" stroke="black" />
+					<rect x="115" y="70" width="30" height="100" fill="darkgreen" stroke="black"/>
+					<rect x="150" y="130" width="30" height="40" fill="lightblue" stroke="black"/>
+					<circle cx="165" cy="100" r="15" fill="lightblue" stroke="black" />
+					<text x="185" y="170" font-size="100" font-family="Arial" fill="black">b</text>
+					<text x="60" y="235" font-size="50" font-family="Arial" fill="black">[ .org ]</text>    
+				</svg>
 			</div>
 		</div>
 	</foreignObject>
