@@ -86,6 +86,16 @@
 					transform-style: preserve-3d;
 					animation: rotate ease-in-out 4s infinite;
 				}
+                @media (prefers-color-scheme: dark) {
+                    .flip-card-inner {
+                        color: white;
+                    }
+                    .flip-card-front svg {
+                        rect{stroke:lightgray}
+                        circle{stroke:lightgray}
+                        text{stroke:lightgray;fill:lightgray}
+                    }
+                }
 
 				.flip-card:hover .flip-card-inner {
 					transform: rotateY(180deg);
