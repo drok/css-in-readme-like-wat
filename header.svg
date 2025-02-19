@@ -6,10 +6,14 @@
 					0% {
 						transform: rotateY(0deg);
 					}
+					45% {transform: rotateY(180deg); }
+					46% {transform: rotateY(180deg); }
 					47% {transform: rotateY(180deg); }
 					48% {transform: rotateY(180deg); }
 					49% {transform: rotateY(180deg); }
 					50% {transform: rotateY(180deg); }
+					95% { transform: rotateY(360deg); }
+					96% { transform: rotateY(360deg); }
 					97% { transform: rotateY(360deg); }
 					98% { transform: rotateY(360deg); }
 					99% { transform: rotateY(360deg); }
@@ -83,7 +87,7 @@
 					height: 100%;
 					text-align: center;
 					transform-style: preserve-3d;
-					animation: rotate ease-in-out 4s infinite;
+					animation: rotate ease-in-out 24s infinite;
 				}
                 @media (prefers-color-scheme: dark) {
 					.flip-card {
