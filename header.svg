@@ -4,10 +4,10 @@
 			<style>
 				@keyframes rotate {
 					0% {
-						transform: rotateY(270deg);
+						transform: rotateY(0deg);
 					}
 					100% {
-						transform: rotateY(180deg);
+						transform: rotateY(360deg);
 					}
 				}
 
@@ -140,8 +140,6 @@
 									<text x="60" y="235" font-size="50" font-family="Arial" fill="black">[ .org ]</text>
 								</svg>
 							</picture>
-							<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-							<p>Click to see source</p>
 						</div>
 						<div class="flip-card-back">
 							<h1>John Doe</h1>
