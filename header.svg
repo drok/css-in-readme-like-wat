@@ -116,7 +116,7 @@
             		<div class="flip-card-inner">
               			<div class="flip-card-front">
 							<picture>
-								<svg width="300" height="300" viewBox="0 100 300 200" xmlns="http://www.w3.org/2000/svg">
+								<svg width="300" height="300" viewBox="0 50 260 200" xmlns="http://www.w3.org/2000/svg">
 									<text x="20" y="170" font-size="100" font-family="Arial" fill="black">d</text>
 
 									<rect x="80" y="130" width="30" height="40" fill="lightblue" stroke="black"/>
