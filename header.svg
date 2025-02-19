@@ -72,7 +72,6 @@
 						0 3px 0 #efefef,
 						0 4px 0 #efefef,
 						0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: rotate ease-in-out 1s infinite alternate;
 				}
 
 				p {
@@ -87,6 +86,7 @@
 					width: 300px;
 					height: 300px;
 					perspective: 1000px;
+					animation: rotate ease-in-out 1s infinite alternate;
 				}
 
 				.flip-card-inner {
